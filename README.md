@@ -2,4 +2,4 @@
 
 [![hagmancarolina@gmail.com](https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge)](mailto:hagmancarolina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-hagman/)
-[![portfolio](https://img.shields.io/badge/Portfolio-FFD4BF?style=for-the-badge)](https://carolinahagman.netlify.app)
+[![portfolio](https://img.shields.io/badge/Portfolio-FFD4BF?style=for-the-badge)](https://hagman.tech)
